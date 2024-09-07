@@ -1,6 +1,10 @@
 # HavocC2-Forensics
 A set of tools and resources for analysis of Havoc C2
 
+# Written Research
+
+[Havoc C2 Framework - A Defensive Operator's Guide](https://www.immersivelabs.com/blog/havoc-c2-framework-a-defensive-operators-guide/)
+
 
 ## Detection Rules
 
